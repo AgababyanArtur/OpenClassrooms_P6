@@ -1,0 +1,11 @@
+# Dossier de données volumineuses
+data/
+
+# Environnement virtuel Python
+.venv/
+
+# Caches et fichiers temporaires
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
